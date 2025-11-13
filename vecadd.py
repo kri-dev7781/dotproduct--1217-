@@ -16,3 +16,6 @@ if __name__ == "__main__":
         print("Error: vectors must be of same length")
     else:
         print("Dot product : ", dot(a, b))
+        
+        
+        #this is new change
